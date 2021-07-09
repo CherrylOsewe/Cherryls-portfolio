@@ -19,6 +19,6 @@ If you wish to communicate with me you can email me through cherrylwendy03@gmail
 
 Feel free to contribute to the code in any way you can.
 ### License
-[MIT]{license}
+[MIT](license)
 Copyright (c) {2021} **Cherryl Osewe**
   
