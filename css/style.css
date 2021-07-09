@@ -24,3 +24,11 @@ h3{
   text-align: center;
   font-weight: bold;
 }
+.col-sm-3{
+  border: black solid 1px ;
+  padding: 13px;
+  margin: 52px;
+  background-color: #d3c1e2;
+  border-radius: 10px;
+  
+}
