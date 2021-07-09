@@ -1,6 +1,6 @@
 main{
   height: 500px;
-  background-image:url(../images/IMG_1339.jpg);
+  background-image:url(../images/blackaesthetic.png);
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -9,6 +9,7 @@ main{
   background-color: #80a1d4;
   color: #f7f4ea;
   font-family: 'Courier New', Courier, monospace;
+  border:#f7f4ea 1px solid ;
 }
 pre{
   font-weight: bold;
@@ -23,7 +24,7 @@ h3{
   font-weight: bold;
 }
 .col-sm-3{
-  border: black solid 1px ;
+  border: #f7f4ea solid 1px ;
   padding: 13px;
   margin: 52px;
   background-color: #d3c1e2;
@@ -31,7 +32,7 @@ h3{
 }
 .box{
   text-align: center;
-  border: 1px solid black;
+  border: 1px solid #f7f4ea;
   padding: 15px;
   background-color: #d3c1e2;
   margin: 20px;
