@@ -2,7 +2,7 @@
 #### My portfolio, 2021
 #### By **Cherryl Osewe**
 ## Description
-This is a portfolio by Cherryl Osewe on her projects , and containing a little about herself icluding her interests, hobbies and education background.
+This is a portfolio by Cherryl Osewe on her projects , and containing a little about herself including her interests, hobbies and education background.
 ## Setup/Installation Requirements
 * Clone repository $ git clone https://github.com/CherrylOsewe/Cherryls-portfolio.git
 * Open index.html file on your text  editor of choice.
@@ -20,5 +20,5 @@ If you wish to communicate with me you can email me through cherrylwendy03@gmail
 Feel free to contribute to the code in any way you can.
 ### License
 [MIT]{license}
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2021} **Cherryl Osewe**
   
