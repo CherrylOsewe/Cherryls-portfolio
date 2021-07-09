@@ -29,3 +29,11 @@ h3{
   background-color: #d3c1e2;
   border-radius: 10px;
 }
+.box{
+  text-align: center;
+  border: 1px solid black;
+  padding: 15px;
+  background-color: #d3c1e2;
+  margin: 20px;
+  border-radius: 10px;
+}
