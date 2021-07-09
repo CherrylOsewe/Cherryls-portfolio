@@ -15,7 +15,7 @@ No known bugs
 3. BOOTSTRAP
 
 ## Support and contact details
-If you wish to communicate with me you can email me through cherrylwendy03@gmail.com and i will get back to you as soon as possible
+If you wish to communicate with me you can email me through cherrylwendy03@gmail.com and I will get back to you as soon as possible
 
 Feel free to contribute to the code in any way you can.
 ### License
