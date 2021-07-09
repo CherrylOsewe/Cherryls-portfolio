@@ -3,7 +3,6 @@ main{
   background-image:url(../images/IMG_1339.jpg);
   background-repeat: no-repeat;
   background-position: center;
-
 }
 .jumbotron{
   text-align: center;
@@ -11,12 +10,10 @@ main{
   color: #f7f4ea;
   font-family: 'Courier New', Courier, monospace;
 }
-
 pre{
   font-weight: bold;
   font-size: large;
   text-align: left;
-
 }
 body{
   background-color: #c0b9dd;
@@ -31,5 +28,4 @@ h3{
   margin: 52px;
   background-color: #d3c1e2;
   border-radius: 10px;
-  
 }
